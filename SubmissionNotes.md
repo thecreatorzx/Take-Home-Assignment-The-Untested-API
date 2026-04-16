@@ -1,5 +1,9 @@
 # Notes
 
+## Test Coverage
+
+**Status: All tests passing ✅** The included test files cover the core endpoints, the new assignment route, and the edge cases identified above (like 404s and the priority-retention fix). I've run the full suite locally to confirm everything is green.
+
 ## What I'd test next
 
 A few things I didn't get to but would want to cover:
